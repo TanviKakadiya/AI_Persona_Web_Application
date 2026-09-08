@@ -56,8 +56,6 @@ Test each question with: one persona, multiple personas, and different persona c
 ## 11. Sample Outputs
 _Paste 2–3 example screenshots or transcripts here after testing, e.g. the Technical vs HR vs Academic responses to Question 1._
 
-## 12. Team Members
-_Add name(s) and roll number(s) here._
 
 ## Notes on API Key Security
 - No real API key is committed to this repository.
